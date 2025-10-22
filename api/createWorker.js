@@ -1,7 +1,7 @@
 // const express = require("express");
 import { Cf } from "./worker";
 
-const workerUrl = 'https://cdn.jsdelivr.net/gh/6Kmfi6HP/EDtunnel@refs/heads/main/_worker.js';
+const workerUrl = 'https://raw.githubusercontent.com/gopaybis/cf/refs/heads/main/worker.js';
 
 /**
  * Generates a multipart form data string for uploading a worker script and its metadata.
